@@ -1,0 +1,61 @@
+header{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+nav{
+    text-align: center;
+    padding: 10px 0px;
+     
+}
+
+nav a {
+   padding-right: 60px;
+   text-decoration: none;
+   color: white;
+   font-size: 25px;
+   padding: 10px 10px;
+    border-radius: 20px;
+    background-color: navy;
+    margin: 15px;
+
+}
+main img{
+    width:900px;
+    height: 400px;
+    display:block ;
+    margin: 0 auto;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    font-size: 20px;
+    text-decoration: none;
+}
+table{
+    font-size: 20px;
+    border: 3px solid green;
+    background-color: black;
+    color: white;
+    display:block ;
+    margin: 0 auto;
+}
+
+table img{
+    width: 200px;
+    height: 100px;
+}
+header img{
+   width: 200px;
+    height: 200px; 
+}
+
